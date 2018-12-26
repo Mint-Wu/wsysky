@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "address": "山东聊城二院华美医院 内科 205病床",
+    "patientName": "张三",
+    "sex": 1,
+    "age": "34",
+    "self": 0,
+    "detail": "补充说明0",
+    "hospitalId": "0",
+    "departments": "0",
+    "bedNum": "205病床",
+    "state": 0,
+  },
+  {
+    "id": "2",
+    "address": "山东聊城二院华美医院 内科 206病床",
+    "patientName": "李四",
+    "sex": 0,
+    "age": "67",
+    "self": 1,
+    "detail": "补充说明1",
+    "hospitalId": "0",
+    "departments": "0",
+    "bedNum": "206病床",
+    "state": 1
+  },
+  {
+    "id": "3",
+    "address": "山东聊城东昌妇幼医院 内科 207病床",
+    "patientName": "王五",
+    "sex": 1,
+    "age": "12",
+    "self": 2,
+    "detail": "补充说明2",
+    "hospitalId": "1",
+    "departments": "0",
+    "bedNum": "207病床",
+    "state": 0
+  }
+]
