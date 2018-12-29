@@ -42,7 +42,7 @@
       "orderNum": "2323232190",
       "discountCoupon":5,
       "discountType":"满3天减5元",
-      "serverunitPrice":"18",
+      "serverunitPrice":"20",
       "linkman":"李四",
       "linkphone":"13434545456",
       "becareName":"张三",
@@ -54,7 +54,7 @@
       "serverbedNum":"205床",
       "serverType":"夜间护理",
       "serverTime":"2018.11.11 11：00",
-      "serverDuration":10,
+      "serverDuration":9,
       "serverDays":"3"
     }  
   },
@@ -83,7 +83,7 @@
       "serverbedNum":"207床",
       "serverType":"日间护理",
       "serverTime":"2018.11.11 11：00",
-      "serverDuration":10,
+      "serverDuration":12,
       "serverDays":"2"
      } 
   },
@@ -99,7 +99,7 @@
     "detail":{
       "discountCoupon":5,
       "discountType":"满3天减5元",
-      "serverunitPrice":"18",
+      "serverunitPrice":"20",
       "linkman":"李四",
       "linkphone":"13434545456",
       "becareName":"张三",
@@ -111,7 +111,7 @@
       "serverbedNum":"205床",
       "serverType":"夜间护理",
       "serverTime":"2018.11.11 11：00",
-      "serverDuration":10,
+      "serverDuration":7,
       "serverDays":"4"
     }   
   },
@@ -140,7 +140,7 @@
       "serverbedNum":"109床",
       "serverType":"日间护理",
       "serverTime":"2018.12.29 18：00",
-      "serverDuration":10,
+      "serverDuration":16,
       "serverDays":"5"
     } 
   },
@@ -157,7 +157,7 @@
       "orderNum": "1677654543",
       "discountCoupon":5,
       "discountType":"满3天减5元",
-      "serverunitPrice":"18",
+      "serverunitPrice":"20",
       "linkman":"李四",
       "linkphone":"18667656545",
       "becareName":"张三",
