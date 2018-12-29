@@ -22,7 +22,7 @@
       "serverAddress":"山东聊城华美医院",
       "serverDepartments":"内科",
       "serverbedNum":"205床",
-      "serverType":"夜间护理",
+      "serverType":"日间护理",
       "serverTime":"2018.11.11 11：00",
       "serverDuration":10,
       "serverDays":"3"
@@ -90,7 +90,7 @@
   {
     "orderNum": "1234567876",
     "state": 4,
-    "name":"日间照护",
+    "name":"夜间照护",
     "orderTimes":"2018.11.11 12:30:00",
     "stop_time":"0",
     "mastMoney":200,
@@ -138,7 +138,7 @@
       "serverAddress":"山东聊城华美医院",
       "serverDepartments":"内科",
       "serverbedNum":"109床",
-      "serverType":"夜间护理",
+      "serverType":"日间护理",
       "serverTime":"2018.12.29 18：00",
       "serverDuration":10,
       "serverDays":"5"
