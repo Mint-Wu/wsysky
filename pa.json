@@ -28,7 +28,7 @@
   {
     "orderNum": "2323232190",
     "state": 2,
-    "name":"日间照护",
+    "name":"夜间护理",
     "orderTimes":"2018.11.11 12:30:00",
     "stop_time":"0",
     "mastMoney":300,
@@ -41,7 +41,7 @@
     "linkphone":"13434545456",
     "becareName":"张三",
     "becareSex":"男",
-    "becareAge":"50",
+    "becareAge":"67",
     "becareSelf":"半自理",
     "serverAddress":"山东聊城华美医院",
     "serverDepartments":"内科",
@@ -59,7 +59,23 @@
     "stop_time":"0",
     "mastMoney":250,
     "realMoney":120,
-    "backMoney":130
+    "backMoney":130,
+    "discountCoupon":5,
+    "discountType":"满3天减5元",
+    "serverunitPrice":"18",
+    "linkman":"李四",
+    "linkphone":"13434545456",
+    "becareName":"张可爱",
+    "becareSex":"女",
+    "becareAge":"24",
+    "becareSelf":"半自理",
+    "serverAddress":"山东聊城东昌妇幼",
+    "serverDepartments":"儿科",
+    "serverbedNum":"207床",
+    "serverType":"日间护理",
+    "serverTime":"2018.11.11 11：00",
+    "serverDuration":10,
+    "serverDays":"2"
   },
   {
     "orderNum": "1234567890",
@@ -85,7 +101,7 @@
     "serverType":"夜间护理",
     "serverTime":"2018.11.11 11：00",
     "serverDuration":10,
-    "serverDays":"3"
+    "serverDays":"4"
   },
   {
     "orderNum": "8765454345",
@@ -95,7 +111,23 @@
     "stop_time":"0",
     "mastMoney":200,
     "realMoney":120,
-    "backMoney":80
+    "backMoney":80,
+    "discountCoupon":4,
+    "discountType":"满3天减5元",
+    "serverunitPrice":"18",
+    "linkman":"李四",
+    "linkphone":"13476765453",
+    "becareName":"吴亦凡",
+    "becareSex":"女",
+    "becareAge":"50",
+    "becareSelf":"半自理",
+    "serverAddress":"山东聊城华美医院",
+    "serverDepartments":"内科",
+    "serverbedNum":"109床",
+    "serverType":"夜间护理",
+    "serverTime":"2018.12.29 18：00",
+    "serverDuration":10,
+    "serverDays":"5"
   },
   {
     "orderNum": "1237654543",
@@ -105,6 +137,22 @@
     "stop_time":"0",
     "mastMoney":200,
     "realMoney":120,
-    "backMoney":80
+    "backMoney":80,
+    "discountCoupon":5,
+    "discountType":"满3天减5元",
+    "serverunitPrice":"18",
+    "linkman":"李四",
+    "linkphone":"18667656545",
+    "becareName":"张三",
+    "becareSex":"男",
+    "becareAge":"50",
+    "becareSelf":"半自理",
+    "serverAddress":"山东聊城华美医院",
+    "serverDepartments":"内科",
+    "serverbedNum":"211床",
+    "serverType":"夜间护理",
+    "serverTime":"2018.11.11 09：00",
+    "serverDuration":10,
+    "serverDays":"4"
   }
 ]
