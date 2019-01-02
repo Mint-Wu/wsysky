@@ -1,7 +1,8 @@
 [
   {
     "orderNum": "1254866155",
-    "state": 1,
+    "state": 2,
+    "flag":1,
     "name":"日间照护",
     "orderTimes":"2018.11.11 12:30:00",
     "stop_time":"2018-12-28 10:34:00",
@@ -32,6 +33,7 @@
   {
     "orderNum": "2323232190",
     "state": 2,
+    "flag":1,
     "name":"夜间护理",
     "orderTimes":"2018.11.11 12:30:00",
     "stop_time":"0",
@@ -61,6 +63,7 @@
   {
     "orderNum": "8767656543",
     "state": 3,
+    "flag":1,
     "name":"日间照护",
     "orderTimes":"2018.11.11 12:30:00",
     "stop_time":"0",
@@ -90,6 +93,7 @@
   {
     "orderNum": "1234567876",
     "state": 4,
+    "flag":1,
     "name":"夜间照护",
     "orderTimes":"2018.11.11 12:30:00",
     "stop_time":"0",
@@ -118,6 +122,7 @@
   {
     "orderNum": "8765458745",
     "state": 5,
+    "flag":0,
     "name":"日间照护",
     "orderTimes":"2018.12.23 12:30:00",
     "stop_time":"0",
@@ -147,6 +152,7 @@
   {
     "orderNum": "1677654543",
     "state": 6,
+    "flag":1,
     "name":"夜间照护",
     "orderTimes":"2018.11.11 12:30:00",
     "stop_time":"0",
