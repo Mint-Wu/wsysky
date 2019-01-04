@@ -9,7 +9,7 @@
     "experience": "3年",
     "nurseNum": "360",
     "goodNum": "80%",
-    "goodAt": ["心血管内科","内分泌科","内科","神经外科"],
+    
     "class": 1,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
     "flag":1,
@@ -25,7 +25,7 @@
     "experience": "4年",
     "nurseNum": "500",
     "goodNum": "96%",
-    "goodAt": ["心血管内科","内分泌科","内科","神经外科","骨科"],
+    
     "class": 1,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
     "flag":1,
@@ -41,7 +41,7 @@
     "experience": "2年",
     "nurseNum": "260",
     "goodNum": "95%",
-    "goodAt": ["妇产科","内分泌科","内科","神经外科","骨科"],
+    
     "class": 1,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
     "flag":1,
@@ -57,7 +57,7 @@
     "experience": "1年",
     "nurseNum": "260",
     "goodNum": "80%",
-    "goodAt": ["妇产科","内分泌科","内科","医疗美容"],
+    
     "class": 2,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
     "flag":0,
@@ -73,7 +73,7 @@
     "experience": "2年",
     "nurseNum": "300",
     "goodNum": "87%",
-    "goodAt": ["心血管内科","内分泌科","内科","神经外科","骨科"],
+    
     "class": 2,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
     "flag":0,
