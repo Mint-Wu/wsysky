@@ -9,14 +9,15 @@
     "experience": "3年",
     "nurseNum": "360",
     "goodNum": "80%",
-    "goodAt": ["心血管内科","内分泌科","内科","神经外科"],
+    "goodAt": ["妇产科","内分泌科","内科","神经外科","骨科"],
     "class": 1,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
-    "flag":1
+    "flag":1,
+    "detail":"擅长生命体征的测量、陪同就医、清洁照护、物理降温、冷敷/热敷、陪诊、雾化吸入、术后护理、康复护理、看护老人安全输液、协助进食、肢体康复照护"
   },
   {
     "id": "2",
-    "photo": "http://img5.duitang.com/uploads/item/201410/19/20141019224235_F3WHu.jpeg",
+    "photo": "http://c.hiphotos.baidu.com/zhidao/pic/item/94cad1c8a786c9175ddbf3f4cc3d70cf3ac75726.jpg",
     "name": "护工2号",
     "sex": "男",
     "age": "40",
@@ -24,10 +25,11 @@
     "experience": "4年",
     "nurseNum": "500",
     "goodNum": "96%",
-    "goodAt": ["心血管内科","内分泌科","内科","神经外科","骨科"],
+    "goodAt": ["妇产科","内分泌科","内科","神经外科"],
     "class": 1,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
-    "flag":1
+    "flag":1,
+    "detail":"擅长生命体征的测量、陪同就医、清洁照护、物理降温、冷敷/热敷、陪诊、雾化吸入、术后护理、康复护理、看护老人安全输液、协助进食、肢体康复照护"
   },
   {
     "id": "3",
@@ -42,11 +44,12 @@
     "goodAt": ["妇产科","内分泌科","内科","神经外科","骨科"],
     "class": 1,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
-    "flag":1
+    "flag":1,
+    "detail":"擅长生命体征的测量、陪同就医、清洁照护、物理降温、冷敷/热敷、陪诊、雾化吸入、术后护理、康复护理、看护老人安全输液、协助进食、肢体康复照护"
   },
   {
     "id": "4",
-    "photo": "http://b-ssl.duitang.com/uploads/item/201707/14/20170714095030_mTB5J.jpeg",
+    "photo": "http://c.hiphotos.baidu.com/zhidao/pic/item/94cad1c8a786c9175ddbf3f4cc3d70cf3ac75726.jpg",
     "name": "护工4号",
     "sex": "女",
     "age": "32",
@@ -54,14 +57,15 @@
     "experience": "1年",
     "nurseNum": "260",
     "goodNum": "80%",
-    "goodAt": ["妇产科","内分泌科","内科","医疗美容"],
+    "goodAt": ["妇产科","内分泌科","内科","神经外科","骨科"],
     "class": 2,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
-    "flag":0
+    "flag":0,
+    "detail":"擅长生命体征的测量、陪同就医、清洁照护、物理降温、冷敷/热敷、陪诊、雾化吸入、术后护理、康复护理、看护老人安全输液、协助进食、肢体康复照护"
   },
   {
     "id": "5",
-    "photo": "http://b-ssl.duitang.com/uploads/item/201707/14/20170714095030_mTB5J.jpeg",
+    "photo": "http://c.hiphotos.baidu.com/zhidao/pic/item/94cad1c8a786c9175ddbf3f4cc3d70cf3ac75726.jpg",
     "name": "护工5号",
     "sex": "男",
     "age": "45",
@@ -69,9 +73,10 @@
     "experience": "2年",
     "nurseNum": "300",
     "goodNum": "87%",
-    "goodAt": ["心血管内科","内分泌科","内科","神经外科","骨科"],
+    "goodAt": ["妇产科","内分泌科","内科","神经外科","骨科"],
     "class": 2,
     "character":"性格责任心强、讲卫生、态度好、沉稳踏实",
-    "flag":0
+    "flag":0,
+    "detail":"擅长生命体征的测量、陪同就医、清洁照护、物理降温、冷敷/热敷、陪诊、雾化吸入、术后护理、康复护理、看护老人安全输液、协助进食、肢体康复照护"
   }
 ]
