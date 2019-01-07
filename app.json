@@ -10,7 +10,7 @@
     "hospitalId": "0",
     "departments": "0",
     "bedNum": "205病床",
-    "state": 0
+    "state": "0"
   },
   {
     "id": "2",
@@ -23,7 +23,7 @@
     "hospitalId": "0",
     "departments": "0",
     "bedNum": "206病床",
-    "state": 1
+    "state": "1"
   },
   {
     "id": "3",
@@ -36,6 +36,6 @@
     "hospitalId": "1",
     "departments": "0",
     "bedNum": "207病床",
-    "state": 0
+    "state": "0"
   }
 ]
